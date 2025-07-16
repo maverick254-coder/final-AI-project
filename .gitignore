@@ -1,0 +1,17 @@
+# Ignore build artifacts
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+
+# Ignore installer files
+*.exe
+*.spec
+
+# Model files (if large)
+*.safetensors
+*.pth
+*.onnx
