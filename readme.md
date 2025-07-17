@@ -40,7 +40,7 @@ streamlit run app.py
 
 To get started without code:
 
-👉 [Download the Installer (.exe)](https://github.com/your-username/your-repo/releases)
+👉 [Download the Installer (.exe)](https://drive.google.com/file/d/11UYeLjvAriMyrPC6YXvJOH1_oXc7Z6cn/view?usp=sharing)
 
 > ⚠️ Note: `OllamaSetup.exe` is not included in this GitHub repo, but is bundled inside the installer and will run automatically. No manual installation is needed.
 
